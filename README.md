@@ -1,6 +1,7 @@
-# Coastal 
+# I Like Big Trees 
 
 Using data from National Parks pages, weather data, and travel/lodging sites, we will go over the overriding factors that dictate how to plot YOUR perfect week long visit to the California Redwoods.
+
 Motivation
 After visiting Redwood National Park over a 2 day drive, returning to spend more time there  and exploring the surrounding area has been a goal. 
 
@@ -11,4 +12,4 @@ Is there a way to design a “perfect” week long trip along the California coa
 •	If you are adding more days, what other drivable parks have the “best” attractions: endangered/interesting flora & fauna, environmental(natural) attractions, tourist destinations, lodgings. 
 
 Minimum Viable Product (MVP)
-Tableau/PowerBI(not sure which yet) walk through of influencing factors, filterable, to help plot a drive through the Coastal Redwoods, extended to include other points of interest for a week long trip.
+Slide & Tableau walk through of influencing factors, filterable, to help plot a drive through the California Redwoods, extended to include other National Parks.
